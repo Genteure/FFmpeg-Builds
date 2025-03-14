@@ -1,0 +1,6 @@
+FF_CONFIGURE="--enable-version3 --disable-debug --disable-everything --disable-autodetect --disable-asm --enable-small --disable-runtime-cpudetect --disable-doc --disable-ffplay --disable-ffprobe --disable-network --disable-avdevice --disable-swresample --disable-swscale --disable-postproc --enable-parser='h264,hevc,av1,aac,mp3' --enable-demuxer='mp4,flv,live_flv' --enable-muxer='flv,mp4' --enable-protocol='file,pipe' --enable-bsf='h264_mp4toannexb,aac_adtstoasc'"
+FF_CFLAGS=""
+FF_CXXFLAGS=""
+FF_LDFLAGS=""
+GIT_BRANCH="master"
+LICENSE_FILE="COPYING.LGPLv3"
